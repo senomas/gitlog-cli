@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const gitlog = require("gitlog");
 
 const commits = gitlog({
