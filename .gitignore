@@ -1,0 +1,11 @@
+.recommenders
+RemoteSystemsTempFiles
+*.bak
+*.log
+.docker
+.history
+.vscode
+node_modules
+dist
+.dist
+log

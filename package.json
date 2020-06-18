@@ -1,0 +1,16 @@
+{
+  "name": "gitlog-cli",
+  "version": "1.0.31",
+  "description": "print git log",
+  "main": "lib.js",
+  "repository": "https://github.com/senomas/gitlog-cli.git",
+  "author": "denmaseno <agus@senomas.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "senc": "./app.js"
+  },
+  "dependencies": {
+    "gitlog": "3.1.2"
+  }
+}
