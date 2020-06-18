@@ -1,6 +1,6 @@
 {
   "name": "gitlog-cli",
-  "version": "1.0.31",
+  "version": "1.0.0",
   "description": "print git log",
   "main": "lib.js",
   "repository": "https://github.com/senomas/gitlog-cli.git",
