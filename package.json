@@ -11,6 +11,6 @@
     "gitlog-cli": "./app.js"
   },
   "dependencies": {
-    "gitlog": "3.1.2"
+    "gitlog": "4.0.4"
   }
 }
